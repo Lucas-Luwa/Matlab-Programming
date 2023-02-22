@@ -1,0 +1,1 @@
+Place:Legendary,Name:Doc Hudson,CharacterDevelopment:Didn't need it,Color:Navy Blue,Kindness:100

@@ -1,0 +1,4 @@
+Gen: 4
+HP: 110
+Type: Normal
+Abilities: Lightning Rod, Solid Rock, Reckless

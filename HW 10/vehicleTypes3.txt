@@ -1,0 +1,14 @@
+wee_trucks.txt
+w00_SUV.txt
+wee_sedan.txt
+w00_hatchback.txt
+wee_convertible.txt
+sports_car.txt
+w00_minivan.txt
+wee_crossover.txt
+w00_coupe.txt
+station_wagon.txt
+wee_van.txt
+luxury_cars.txt
+utility_vehicle.txt
+w00_pickup.txt

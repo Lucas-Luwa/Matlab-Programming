@@ -1,0 +1,1 @@
+Vroominess:9,Ranking:Bad,RealName:Wingo,charDevt:-6000,isCar:true

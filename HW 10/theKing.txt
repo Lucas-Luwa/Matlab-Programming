@@ -1,0 +1,1 @@
+Name:The King,Place:2,CharacterDevelopment:30,Kindness:85,Color:Blue

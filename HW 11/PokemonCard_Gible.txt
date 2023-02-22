@@ -1,0 +1,3 @@
+Gen: 4
+Type: Dragon, Ground
+HP: 68

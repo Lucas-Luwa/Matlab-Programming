@@ -1,0 +1,1 @@
+isCar:true and blue,Ranking:2,Vroominess:9,charDevt:4,RealName:Strip 'The King' Weathers

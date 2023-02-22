@@ -1,0 +1,4 @@
+Gen: 3
+Type: Water
+HP: 50
+Abilities: Torrent Damp

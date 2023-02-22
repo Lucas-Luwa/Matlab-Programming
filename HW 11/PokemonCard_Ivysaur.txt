@@ -1,0 +1,4 @@
+Gen: 1
+Type: Grass, Poison
+Abilities: Overgrow, Chlorophyll
+HP: 60

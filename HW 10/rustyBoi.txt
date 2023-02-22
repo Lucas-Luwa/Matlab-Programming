@@ -1,0 +1,1 @@
+Ranking:Doesn't race,charDevt:6,RealName:Tow Mater,isCar:false... is truck,Vroominess:7

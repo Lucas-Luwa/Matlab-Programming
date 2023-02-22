@@ -1,0 +1,5 @@
+Gen: 3
+Type: Fire
+Abilities: Blaze Speed Boost
+Att: 60
+HP: 45

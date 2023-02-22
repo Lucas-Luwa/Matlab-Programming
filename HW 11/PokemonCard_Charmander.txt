@@ -1,0 +1,4 @@
+Gen: 1
+Type: Fire
+HP: 39
+Att: 52

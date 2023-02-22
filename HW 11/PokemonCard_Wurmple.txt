@@ -1,0 +1,4 @@
+Gen: 3
+HP: 45
+Att: 45
+Type: Bug

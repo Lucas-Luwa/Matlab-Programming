@@ -1,0 +1,5 @@
+Gen: 4
+Type: Grass
+Abilities: Overgrow, Shell Armor
+HP: 95
+Att: 109

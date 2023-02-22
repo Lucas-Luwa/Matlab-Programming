@@ -1,0 +1,5 @@
+Gen: 1
+Type: Normal
+HP: 55
+Abilities: Run Away, Adaptability, Anticipation
+Att: 55
