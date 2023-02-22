@@ -1,2 +1,3 @@
 # CS1371
-Computing for Engineers MATLAB
+CS 1371 (Computing for Engineers) Homeworks taught by Dr. Rogers at Georgia Tech in Spring 2021.
+
